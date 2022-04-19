@@ -1,1 +1,0 @@
-# Aspose.Drawing-API-Reference
