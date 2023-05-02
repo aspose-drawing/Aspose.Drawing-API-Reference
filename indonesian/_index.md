@@ -2,7 +2,7 @@
 title: Aspose.Drawing Product Family
 additionalTitle: Aspose Referensi API
 type: docs
-url: id/
+url: /id/
 keywords: "System.Drawing, 2D graphic library, Aspose.Drawing Features, documentation"
 description: "Dapatkan pengantar Aspose.Drawing untuk .NET, pustaka grafik 2D lengkap untuk membuat aplikasi modern, desktop, seluler, berkemampuan cloud, dan terhubung ke internet."
 weight: 10
@@ -19,5 +19,5 @@ Aspose.Drawing adalah perpustakaan grafik 2D lengkap yang dikelola sepenuhnya, l
 {{% /alert %}} 
 
 Ini adalah tautan ke beberapa sumber daya yang bermanfaat:
-- [Aspose.Drawing untuk Referensi .NET API](/drawing/de/net/)
+- [Aspose.Drawing untuk Referensi .NET API](/drawing/id/net/)
 

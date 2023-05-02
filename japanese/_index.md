@@ -19,5 +19,5 @@ Aspose.Drawing は、テキスト、ジオメトリ、および画像を描画�
 {{% /alert %}} 
 
 これらは、いくつかの有用なリソースへのリンクです。
-- [Aspose.Drawing for .NET API リファレンス](/drawing/de/net/)
+- [Aspose.Drawing for .NET API リファレンス](/drawing/ja/net/)
 

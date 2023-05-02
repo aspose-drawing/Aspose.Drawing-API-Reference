@@ -19,5 +19,5 @@ weight: 10
 {{% /alert %}} 
 
 Αυτοί είναι σύνδεσμοι προς μερικούς χρήσιμους πόρους:
-- [Aspose.Drawing for .NET API Reference](/drawing/de/net/)
+- [Aspose.Drawing for .NET API Reference](/drawing/el/net/)
 
