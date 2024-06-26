@@ -77,6 +77,7 @@ Describes the interior of a graphics shape composed of rectangles and paths. Thi
 | [isVisible(Rectangle rect)](#isVisible-com.aspose.drawing.Rectangle-) | Tests whether any portion of the specified [Rectangle](../../com.aspose.drawing/rectangle) structure is contained within this [Region](../../com.aspose.drawing/region). |
 | [isVisible(int x, int y, int width, int height, Graphics g)](#isVisible-int-int-int-int-com.aspose.drawing.Graphics-) | Tests whether any portion of the specified rectangle is contained within this [Region](../../com.aspose.drawing/region) when drawn using the specified [Graphics](../../com.aspose.drawing/graphics). |
 | [isVisible(Rectangle rect, Graphics g)](#isVisible-com.aspose.drawing.Rectangle-com.aspose.drawing.Graphics-) | Tests whether any portion of the specified [Rectangle](../../com.aspose.drawing/rectangle) structure is contained within this [Region](../../com.aspose.drawing/region) when drawn using the specified [Graphics](../../com.aspose.drawing/graphics). |
+| [getBoundaryPath()](#getBoundaryPath--) | Gets boundaries of region. |
 ### Region() {#Region--}
 ```
 public Region()
@@ -822,3 +823,13 @@ Tests whether any portion of the specified [Rectangle](../../com.aspose.drawing/
 
 **Returns:**
 boolean - true when any portion of the `rect` is contained within this [Region](../../com.aspose.drawing/region); otherwise, false.
+### getBoundaryPath() {#getBoundaryPath--}
+```
+public Path getBoundaryPath()
+```
+
+
+Gets boundaries of region.
+
+**Returns:**
+com.aspose.skiainternal.Path - Boundaries of region.
